@@ -1,0 +1,37 @@
+.navbar{
+    box-shadow: 3px 3px 3px lightgrey;
+}
+
+
+.links a{
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+   
+}
+.links{
+    display: flex;
+    justify-content: end;
+    gap: 30px;
+  
+}
+.navbar-brand{
+    font-style: italic;
+    color: rgb(184, 25, 25);
+    font-weight: bold;
+
+}
+.footer{
+    width: 100%;
+    background-color: black;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
+.footer p{
+    text-align: center;
+    color: white;
+   
+}
